@@ -1,7 +1,4 @@
- //// PROJEKT STACJI POGODOWEJ ///
-//Autorzy :
-//Krzysztof Kasprzyk
-//Rafał Piwowarczyk 
+
 
 
 // Biblioteki których używamy do naszych czujników oraz ogólnego działania kodu projektu 
